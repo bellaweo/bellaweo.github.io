@@ -1,1 +1,1 @@
-# https://mel.sh
+mel.sh
