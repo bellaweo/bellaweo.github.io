@@ -1,0 +1,73 @@
+==================================================================
+https://keybase.io/bellaweo
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://mel.sh
+  * I am bellaweo (https://keybase.io/bellaweo) on keybase.
+  * I have a public key with fingerprint 883A B9DB 7293 97E5 B53D  A14D F8ED 892F 5463 F5BE
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120f423524f0117e4e7af8ce0c1dd4acd183f460d48a91aaac805c6ab06f28cfaf80a",
+      "fingerprint": "883ab9db729397e5b53da14df8ed892f5463f5be",
+      "host": "keybase.io",
+      "key_id": "f8ed892f5463f5be",
+      "kid": "01011c78802a49f161038c77402aa240a6ae2e2d89f5e754bb48dbc54a6021ac703a0a",
+      "uid": "37325d755d9df516540df0747fe21619",
+      "username": "bellaweo"
+    },
+    "service": {
+      "hostname": "mel.sh",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1572742074,
+  "expire_in": 157680000,
+  "prev": "78beb6bb02267c247a58378d281cc338b2169d311c43dc8d680bab906b79bb94",
+  "seqno": 28,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owFtUmtQVVUYvSAiL1ECFRQUDjUOw+u897lXEGkIRwrJQZOhkvY+Zx/uCbj3eh88
+IgaiieFV2kRDNoGBkgQmQ+k0ilw0KUYlzYiKiMmcEHXm8ohAe9i0LyP/2n/2fGvW
+Wnt93/4Or16h8/N44KpL3CsvOD2u3kW6F53R18spZFbKKEM5VYCXLlyoYJs9r0BT
+KANFMyyt8iwnsLxKMwzAPAZQlWRMy4yi8FBWGIlTeZFWeAnqGQihLNGCLEJEiyor
+ySoh05CKo1TNlI+tFqtmshNbSeIg0isIsHpOD7CABE6BDK+oElYkPasKvMipAsJE
+aDTb3AoSDkEbTtDMBCNF3lK8/+Ev5yZpZSBJNAt5vcqIDM1JMgA8qSHL01CEmMUs
+EasCBgKPEC8pSBZ4KNIsA2VAc3Apt2PJjgMcKyhAEBS9ogqMKPC0otKABypmibfe
+TbRhqwkWYcJGuLAQlmAzVRFHEbRYk7F7sO5OHjGKcGGCzUhUFqvZbpbNhQQz2u0W
+m8GtsZdZ3KQSjPIeyfOQZlLIBImiGFttmtlEGRjClO2a248RAAt4lgSKo3CpRbPi
+PM20BIsSTY77HVxMLIGEMBIRollWBNkyywMoSByQFFZiZJnjJETa0SscmR3PKbKk
+ED0iP0WLCOgR0vOUu6ODJjNlYCUSFOYTU5uWb4J2hxVTFX51npyXzsNPF7E+yqvW
+cHbc+k7z5JnktszltVvp6d45nZ/v2mVkw9Ba3ZcP1ZPMr/vnma82hry7BWV13wN1
+ugd3piovHbminkp6+UjuCwfqFy2VRXHJL7kcxw5+iHrHZpzZdSNNV/dFjn+b8sfm
+mdqJnEDvnhSwZy+AugDg6x3dtpgp6mYdwdlwMP1e7OfHLc95GCP31dLUiHG42qNy
+urzxn1zbL3Rgs3O/JaT6seCqLDWzD+Q2/BB86WK/60TrunO/JSQaJmpcb1AbRxbP
+j/Y6411Fuz8Ou3wSl0V+NNQ9XfF8+oX006XCjTMGnx5+qv3muvv5A95JOQEthpiR
+vpq0jP7hza/1mZqdr4ZO3DyfSnWwa366XH7C1zG2afW1zlUTzUMg/r2gEa9ew/WI
+Ki3wk8rYp/PDdiTOps2Vqb4Pdw4q3eE/2t5eMC9m7A5a+XpqeNeDtqnBw2Ur2htS
+Hbv6MoxDXeKNmqzjkzGa/N2oFFByu7+5crDSMzj/GdtCcWjHeMhwdIPgP3l0Dnf9
+XtboMNj6w7qiSr2tyeMRratOP7G13fRBiH/nbHuLOaXb50DK1umC+pwLgfdjsv6a
+oW4pb3W+ecd4rHQ0avtot2WxocW7h9m5pfraAJ9291Cj3J/qOlf79Y6nBv51/F1/
+6PEOH//ys7eS5mM2BP0859o+9qfwRbj/rvXbir5Z89krtzfVxVaFHo1vyonNmIqd
+v1L/bOipT/ckfb+t9cltzrr3Lw41/Qc=
+=niPW
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/bellaweo
+
+==================================================================
