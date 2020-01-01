@@ -13,14 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-theme: jekyll-theme-so-simple
+remote_theme: "mmistakes/so-simple-theme"
 locale: en-US
 title: "mel"
 description: >
   a wise woman once said "fuck this shit" and she lived happily ever after
 baseurl: "" # the subpath of your site, e.g. "/blog"
 url: "https://mel.sh"
-#logo: "/assets/images/169oolf.gif"
 date_format: "%B %-d, %Y"
 read_time: false
 words_per_minute: 200
