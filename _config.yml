@@ -20,7 +20,7 @@ description: >
   a wise woman once said "fuck this shit" and she lived happily ever after
 baseurl: "" # the subpath of your site, e.g. "/blog"
 url: "https://mel.sh"
-logo: # "/images/169oolf.gif" # path of site logo, e.g. "/assets/images/logo.png"
+#logo: "/assets/images/169oolf.gif"
 date_format: "%B %-d, %Y"
 read_time: false
 words_per_minute: 200
@@ -108,7 +108,7 @@ defaults:
 author:
   name: mel
   twitter: bellaweo
-  picture: /images/favicon.png
+  picture: /assets/images/favicon.png
 
 # Footer Links
 footer_links:
