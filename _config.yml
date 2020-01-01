@@ -123,4 +123,4 @@ footer_links:
     url: https://github.com/bellaweo
     icon: fab fa-github fa-2x
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
