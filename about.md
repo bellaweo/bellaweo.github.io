@@ -8,7 +8,7 @@ permalink: /about/
 <script async src="//static.getclicky.com/js"></script>
 
 <br><br><br><br><br><br><br><br><br>
-<p align="right">
+<p align="center">
 compost the state
 </p>
 <br><br><br>

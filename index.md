@@ -12,6 +12,4 @@ permalink: /
 <br><br>
 a wise woman once said "fuck this shit" and she lived happily ever after
 </p>
-<br><br>
-<p align="center">
-</p>
+<br><br><br>
