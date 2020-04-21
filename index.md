@@ -11,6 +11,5 @@ permalink: /
 <p align="center">
 <img src="/assets/images/169oolf.gif" style="width:100px;height:100px;">
 <br><br>
-a wise woman once said "fuck this shit" and she lived happily ever after
 </p>
 <br><br>
